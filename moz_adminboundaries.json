@@ -1,0 +1,2670 @@
+{
+    "country": "Mozambique",
+    "code": "MZ",
+    "provinces": [
+      {
+        "name": "Cabo Delgado",
+        "code": "MZ01",
+        "districts": [
+          {
+            "name": "Ancuabe",
+            "code": "MZ0101",
+            "localities": [
+              {
+                "name": "Ancuabe",
+                "code": "MZ010101"
+              },
+              {
+                "name": "Mesa",
+                "code": "MZ010102"
+              },
+              {
+                "name": "Metoro",
+                "code": "MZ010103"
+              }
+            ]
+          },
+          {
+            "name": "Balama",
+            "code": "MZ0102",
+            "localities": [
+              {
+                "name": "Balama",
+                "code": "MZ010201"
+              },
+              {
+                "name": "Impiri",
+                "code": "MZ010202"
+              },
+              {
+                "name": "Kuekue",
+                "code": "MZ010203"
+              },
+              {
+                "name": "Mavala",
+                "code": "MZ010204"
+              }
+            ]
+          },
+          {
+            "name": "Chiure",
+            "code": "MZ0103",
+            "localities": [
+              {
+                "name": "Chiure",
+                "code": "MZ010301"
+              },
+              {
+                "name": "Chiure Velho",
+                "code": "MZ010302"
+              },
+              {
+                "name": "Katapua",
+                "code": "MZ010303"
+              },
+              {
+                "name": "Mazeze",
+                "code": "MZ010304"
+              },
+              {
+                "name": "Namogelia",
+                "code": "MZ010305"
+              },
+              {
+                "name": "Ocua",
+                "code": "MZ010306"
+              }
+            ]
+          },
+          {
+            "name": "Cidade De Pemba",
+            "code": "MZ0104",
+            "localities": [
+              {
+                "name": "Cidade De Pemba",
+                "code": "MZ010401"
+              }
+            ]
+          },
+          {
+            "name": "Ibo",
+            "code": "MZ0105",
+            "localities": [
+              {
+                "name": "Ibo",
+                "code": "MZ010501"
+              },
+              {
+                "name": "Quirimba",
+                "code": "MZ010502"
+              }
+            ]
+          },
+          {
+            "name": "Macomia",
+            "code": "MZ0106",
+            "localities": [
+              {
+                "name": "Chai",
+                "code": "MZ010601"
+              },
+              {
+                "name": "Macomia",
+                "code": "MZ010602"
+              },
+              {
+                "name": "Mucojo",
+                "code": "MZ010603"
+              },
+              {
+                "name": "Quiterajo",
+                "code": "MZ010604"
+              }
+            ]
+          },
+          {
+            "name": "Mecufi",
+            "code": "MZ0107",
+            "localities": [
+              {
+                "name": "Mecufi",
+                "code": "MZ010701"
+              },
+              {
+                "name": "Murrebue",
+                "code": "MZ010702"
+              }
+            ]
+          },
+          {
+            "name": "Meluco",
+            "code": "MZ0108",
+            "localities": [
+              {
+                "name": "Meluco",
+                "code": "MZ010801"
+              },
+              {
+                "name": "Muaguide",
+                "code": "MZ010802"
+              }
+            ]
+          },
+          {
+            "name": "Metuge",
+            "code": "MZ0109",
+            "localities": [
+              {
+                "name": "Metuge",
+                "code": "MZ010901"
+              },
+              {
+                "name": "Mieze",
+                "code": "MZ010902"
+              }
+            ]
+          },
+          {
+            "name": "Mocimboa Da Praia",
+            "code": "MZ0110",
+            "localities": [
+              {
+                "name": "Diaca",
+                "code": "MZ011001"
+              },
+              {
+                "name": "Mbau",
+                "code": "MZ011002"
+              },
+              {
+                "name": "Mocimboa Da Praia",
+                "code": "MZ011003"
+              }
+            ]
+          },
+          {
+            "name": "Montepuez",
+            "code": "MZ0111",
+            "localities": [
+              {
+                "name": "Mapupulo",
+                "code": "MZ011101"
+              },
+              {
+                "name": "Mirate",
+                "code": "MZ011102"
+              },
+              {
+                "name": "Montepuez",
+                "code": "MZ011103"
+              },
+              {
+                "name": "Nairoto",
+                "code": "MZ011104"
+              },
+              {
+                "name": "Namanhumbir",
+                "code": "MZ011105"
+              }
+            ]
+          },
+          {
+            "name": "Mueda",
+            "code": "MZ0112",
+            "localities": [
+              {
+                "name": "Chapa",
+                "code": "MZ011201"
+              },
+              {
+                "name": "Imbuo",
+                "code": "MZ011202"
+              },
+              {
+                "name": "Mueda",
+                "code": "MZ011203"
+              },
+              {
+                "name": "N'Gapa",
+                "code": "MZ011204"
+              },
+              {
+                "name": "Negomano",
+                "code": "MZ011205"
+              }
+            ]
+          },
+          {
+            "name": "Muidumbe",
+            "code": "MZ0113",
+            "localities": [
+              {
+                "name": "Chitunda",
+                "code": "MZ011301"
+              },
+              {
+                "name": "Miteda",
+                "code": "MZ011302"
+              },
+              {
+                "name": "Muidumbe",
+                "code": "MZ011303"
+              }
+            ]
+          },
+          {
+            "name": "Namuno",
+            "code": "MZ0114",
+            "localities": [
+              {
+                "name": "Hucula",
+                "code": "MZ011401"
+              },
+              {
+                "name": "Machoca",
+                "code": "MZ011402"
+              },
+              {
+                "name": "Meloco",
+                "code": "MZ011403"
+              },
+              {
+                "name": "N'Cumpe",
+                "code": "MZ011404"
+              },
+              {
+                "name": "Namuno",
+                "code": "MZ011405"
+              },
+              {
+                "name": "Papai",
+                "code": "MZ011406"
+              }
+            ]
+          },
+          {
+            "name": "Nangade",
+            "code": "MZ0115",
+            "localities": [
+              {
+                "name": "M'Tamba",
+                "code": "MZ011501"
+              },
+              {
+                "name": "Nangade",
+                "code": "MZ011502"
+              }
+            ]
+          },
+          {
+            "name": "Palma",
+            "code": "MZ0116",
+            "localities": [
+              {
+                "name": "Olumbi",
+                "code": "MZ011601"
+              },
+              {
+                "name": "Palma",
+                "code": "MZ011602"
+              },
+              {
+                "name": "Pundanhar",
+                "code": "MZ011603"
+              },
+              {
+                "name": "Quionga",
+                "code": "MZ011604"
+              }
+            ]
+          },
+          {
+            "name": "Quissanga",
+            "code": "MZ0118",
+            "localities": [
+              {
+                "name": "Bilibiza",
+                "code": "MZ011801"
+              },
+              {
+                "name": "Mahate",
+                "code": "MZ011802"
+              },
+              {
+                "name": "Quissanga",
+                "code": "MZ011803"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Gaza",
+        "code": "MZ02",
+        "districts": [
+          {
+            "name": "Bilene",
+            "code": "MZ0201",
+            "localities": [
+              {
+                "name": "Macia",
+                "code": "MZ020101"
+              },
+              {
+                "name": "Makluane",
+                "code": "MZ020102"
+              },
+              {
+                "name": "Mazivila",
+                "code": "MZ020103"
+              },
+              {
+                "name": "Messano",
+                "code": "MZ020104"
+              },
+              {
+                "name": "Praia De Bilene",
+                "code": "MZ020105"
+              }
+            ]
+          },
+          {
+            "name": "Chibuto",
+            "code": "MZ0202",
+            "localities": [
+              {
+                "name": "Alto Changane",
+                "code": "MZ020201"
+              },
+              {
+                "name": "Chaimite",
+                "code": "MZ020202"
+              },
+              {
+                "name": "Changanine",
+                "code": "MZ020203"
+              },
+              {
+                "name": "Chibuto",
+                "code": "MZ020204"
+              },
+              {
+                "name": "Godide",
+                "code": "MZ020205"
+              },
+              {
+                "name": "Malehice",
+                "code": "MZ020206"
+              }
+            ]
+          },
+          {
+            "name": "Chicualacuala",
+            "code": "MZ0203",
+            "localities": [
+              {
+                "name": "Pafuri",
+                "code": "MZ020301"
+              },
+              {
+                "name": "Vila Eduardo Mondlane",
+                "code": "MZ020302"
+              }
+            ]
+          },
+          {
+            "name": "Chigubo",
+            "code": "MZ0204",
+            "localities": [
+              {
+                "name": "Chigubo",
+                "code": "MZ020401"
+              },
+              {
+                "name": "Dindiza",
+                "code": "MZ020402"
+              }
+            ]
+          },
+          {
+            "name": "Chokwe",
+            "code": "MZ0205",
+            "localities": [
+              {
+                "name": "Chokwe",
+                "code": "MZ020501"
+              },
+              {
+                "name": "Lionde",
+                "code": "MZ020502"
+              },
+              {
+                "name": "Macarretane",
+                "code": "MZ020503"
+              },
+              {
+                "name": "Xilembene",
+                "code": "MZ020504"
+              }
+            ]
+          },
+          {
+            "name": "Chongoene",
+            "code": "MZ0206",
+            "localities": [
+              {
+                "name": "Chongoene",
+                "code": "MZ020601"
+              },
+              {
+                "name": "Madzucane",
+                "code": "MZ020602"
+              },
+              {
+                "name": "Nguzene",
+                "code": "MZ020603"
+              }
+            ]
+          },
+          {
+            "name": "Cidade De Xai-Xai",
+            "code": "MZ0207",
+            "localities": [
+              {
+                "name": "Cidade De Xai-Xai",
+                "code": "MZ020701"
+              }
+            ]
+          },
+          {
+            "name": "Guija",
+            "code": "MZ0208",
+            "localities": [
+              {
+                "name": "Caniçado",
+                "code": "MZ020801"
+              },
+              {
+                "name": "Chivongoene",
+                "code": "MZ020802"
+              },
+              {
+                "name": "Mubangoene",
+                "code": "MZ020803"
+              },
+              {
+                "name": "Nalazi",
+                "code": "MZ020804"
+              }
+            ]
+          },
+          {
+            "name": "Limpopo",
+            "code": "MZ0209",
+            "localities": [
+              {
+                "name": "Chicumbane",
+                "code": "MZ020901"
+              },
+              {
+                "name": "Chissano",
+                "code": "MZ020902"
+              },
+              {
+                "name": "Zongoene",
+                "code": "MZ020903"
+              }
+            ]
+          },
+          {
+            "name": "Mabalane",
+            "code": "MZ0210",
+            "localities": [
+              {
+                "name": "Combomune",
+                "code": "MZ021001"
+              },
+              {
+                "name": "Mabalane",
+                "code": "MZ021002"
+              },
+              {
+                "name": "Ntlavene",
+                "code": "MZ021003"
+              }
+            ]
+          },
+          {
+            "name": "Mandlakaze",
+            "code": "MZ0211",
+            "localities": [
+              {
+                "name": "Chibonzane",
+                "code": "MZ021101"
+              },
+              {
+                "name": "Chidenguele",
+                "code": "MZ021102"
+              },
+              {
+                "name": "Macuacua",
+                "code": "MZ021103"
+              },
+              {
+                "name": "Mandlakaze",
+                "code": "MZ021104"
+              },
+              {
+                "name": "Xhalala",
+                "code": "MZ021105"
+              }
+            ]
+          },
+          {
+            "name": "Mapai",
+            "code": "MZ0212",
+            "localities": [
+              {
+                "name": "Mapai",
+                "code": "MZ021201"
+              }
+            ]
+          },
+          {
+            "name": "Massangena",
+            "code": "MZ0213",
+            "localities": [
+              {
+                "name": "Massangena",
+                "code": "MZ021301"
+              },
+              {
+                "name": "Mavue",
+                "code": "MZ021302"
+              }
+            ]
+          },
+          {
+            "name": "Massingir",
+            "code": "MZ0214",
+            "localities": [
+              {
+                "name": "Massingir",
+                "code": "MZ021401"
+              },
+              {
+                "name": "Mavodze",
+                "code": "MZ021402"
+              },
+              {
+                "name": "Zulo",
+                "code": "MZ021403"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Inhambane",
+        "code": "MZ03",
+        "districts": [
+          {
+            "name": "Cidade De Inhambane",
+            "code": "MZ0301",
+            "localities": [
+              {
+                "name": "Cidade De Inhambane",
+                "code": "MZ030101"
+              }
+            ]
+          },
+          {
+            "name": "Funhalouro",
+            "code": "MZ0302",
+            "localities": [
+              {
+                "name": "Funhalouro",
+                "code": "MZ030201"
+              },
+              {
+                "name": "Tome",
+                "code": "MZ030202"
+              }
+            ]
+          },
+          {
+            "name": "Govuro",
+            "code": "MZ0303",
+            "localities": [
+              {
+                "name": "Nova Mambone",
+                "code": "MZ030301"
+              },
+              {
+                "name": "Save",
+                "code": "MZ030302"
+              }
+            ]
+          },
+          {
+            "name": "Homoine",
+            "code": "MZ0304",
+            "localities": [
+              {
+                "name": "Homoine",
+                "code": "MZ030401"
+              },
+              {
+                "name": "Pembe",
+                "code": "MZ030402"
+              }
+            ]
+          },
+          {
+            "name": "Inharrime",
+            "code": "MZ0305",
+            "localities": [
+              {
+                "name": "Inharrime",
+                "code": "MZ030501"
+              },
+              {
+                "name": "Mocumbi",
+                "code": "MZ030502"
+              }
+            ]
+          },
+          {
+            "name": "Inhassoro",
+            "code": "MZ0306",
+            "localities": [
+              {
+                "name": "Bazaruto",
+                "code": "MZ030601"
+              },
+              {
+                "name": "Inhassoro",
+                "code": "MZ030602"
+              }
+            ]
+          },
+          {
+            "name": "Jangamo",
+            "code": "MZ0307",
+            "localities": [
+              {
+                "name": "Cumbana",
+                "code": "MZ030701"
+              },
+              {
+                "name": "Jangamo",
+                "code": "MZ030702"
+              }
+            ]
+          },
+          {
+            "name": "Mabote",
+            "code": "MZ0308",
+            "localities": [
+              {
+                "name": "Mabote",
+                "code": "MZ030801"
+              },
+              {
+                "name": "Zimane",
+                "code": "MZ030802"
+              },
+              {
+                "name": "Zinave",
+                "code": "MZ030803"
+              }
+            ]
+          },
+          {
+            "name": "Massinga",
+            "code": "MZ0309",
+            "localities": [
+              {
+                "name": "Chicomo",
+                "code": "MZ030901"
+              },
+              {
+                "name": "Massinga",
+                "code": "MZ030902"
+              }
+            ]
+          },
+          {
+            "name": "Maxixe",
+            "code": "MZ0310",
+            "localities": [
+              {
+                "name": "Maxixe",
+                "code": "MZ031001"
+              }
+            ]
+          },
+          {
+            "name": "Morrumbene",
+            "code": "MZ0311",
+            "localities": [
+              {
+                "name": "Morrumbene",
+                "code": "MZ031101"
+              },
+              {
+                "name": "Mucoduene",
+                "code": "MZ031102"
+              }
+            ]
+          },
+          {
+            "name": "Panda",
+            "code": "MZ0312",
+            "localities": [
+              {
+                "name": "Mawayela",
+                "code": "MZ031201"
+              },
+              {
+                "name": "Panda",
+                "code": "MZ031202"
+              },
+              {
+                "name": "Urrene",
+                "code": "MZ031203"
+              }
+            ]
+          },
+          {
+            "name": "Vilankulo",
+            "code": "MZ0313",
+            "localities": [
+              {
+                "name": "Mapinhane",
+                "code": "MZ031301"
+              },
+              {
+                "name": "Vilankulo",
+                "code": "MZ031302"
+              }
+            ]
+          },
+          {
+            "name": "Zavala",
+            "code": "MZ0314",
+            "localities": [
+              {
+                "name": "Quissico",
+                "code": "MZ031401"
+              },
+              {
+                "name": "Zandamela",
+                "code": "MZ031402"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Manica",
+        "code": "MZ04",
+        "districts": [
+          {
+            "name": "Barue",
+            "code": "MZ0401",
+            "localities": [
+              {
+                "name": "Catandica",
+                "code": "MZ040101"
+              },
+              {
+                "name": "Choa",
+                "code": "MZ040102"
+              },
+              {
+                "name": "Nhampassa",
+                "code": "MZ040103"
+              }
+            ]
+          },
+          {
+            "name": "Cidade De Chimoio",
+            "code": "MZ0402",
+            "localities": [
+              {
+                "name": "Cidade De Chimoio",
+                "code": "MZ040201"
+              }
+            ]
+          },
+          {
+            "name": "Gondola",
+            "code": "MZ0403",
+            "localities": [
+              {
+                "name": "Amatongas",
+                "code": "MZ040301"
+              },
+              {
+                "name": "Cafumpe",
+                "code": "MZ040302"
+              },
+              {
+                "name": "Gondola",
+                "code": "MZ040303"
+              },
+              {
+                "name": "Inchope",
+                "code": "MZ040304"
+              }
+            ]
+          },
+          {
+            "name": "Guro",
+            "code": "MZ0404",
+            "localities": [
+              {
+                "name": "Guro",
+                "code": "MZ040401"
+              },
+              {
+                "name": "Mandie",
+                "code": "MZ040402"
+              },
+              {
+                "name": "Mungari",
+                "code": "MZ040403"
+              },
+              {
+                "name": "Nhamassonge",
+                "code": "MZ040404"
+              }
+            ]
+          },
+          {
+            "name": "Macate",
+            "code": "MZ0405",
+            "localities": [
+              {
+                "name": "Macate",
+                "code": "MZ040501"
+              },
+              {
+                "name": "Zembe",
+                "code": "MZ040502"
+              }
+            ]
+          },
+          {
+            "name": "Machaze",
+            "code": "MZ0406",
+            "localities": [
+              {
+                "name": "Chitobe",
+                "code": "MZ040601"
+              },
+              {
+                "name": "Save",
+                "code": "MZ040602"
+              }
+            ]
+          },
+          {
+            "name": "Macossa",
+            "code": "MZ0407",
+            "localities": [
+              {
+                "name": "Macossa",
+                "code": "MZ040701"
+              },
+              {
+                "name": "Nguawala",
+                "code": "MZ040702"
+              },
+              {
+                "name": "Nhamagua",
+                "code": "MZ040703"
+              }
+            ]
+          },
+          {
+            "name": "Manica",
+            "code": "MZ0408",
+            "localities": [
+              {
+                "name": "Machipanda",
+                "code": "MZ040801"
+              },
+              {
+                "name": "Manica",
+                "code": "MZ040802"
+              },
+              {
+                "name": "Mavonde",
+                "code": "MZ040803"
+              },
+              {
+                "name": "Messica",
+                "code": "MZ040804"
+              }
+            ]
+          },
+          {
+            "name": "Mossurize",
+            "code": "MZ0409",
+            "localities": [
+              {
+                "name": "Chiurairue",
+                "code": "MZ040901"
+              },
+              {
+                "name": "Dacata",
+                "code": "MZ040902"
+              },
+              {
+                "name": "Espungabera",
+                "code": "MZ040903"
+              }
+            ]
+          },
+          {
+            "name": "Sussundenga",
+            "code": "MZ0410",
+            "localities": [
+              {
+                "name": "Dombe",
+                "code": "MZ041001"
+              },
+              {
+                "name": "Muoha",
+                "code": "MZ041002"
+              },
+              {
+                "name": "Rotanda",
+                "code": "MZ041003"
+              },
+              {
+                "name": "Sussundenga",
+                "code": "MZ041004"
+              }
+            ]
+          },
+          {
+            "name": "Tambara",
+            "code": "MZ0411",
+            "localities": [
+              {
+                "name": "Bazua",
+                "code": "MZ041101"
+              },
+              {
+                "name": "Nhacafula",
+                "code": "MZ041102"
+              },
+              {
+                "name": "Nhacolo",
+                "code": "MZ041103"
+              }
+            ]
+          },
+          {
+            "name": "Vanduzi",
+            "code": "MZ0412",
+            "localities": [
+              {
+                "name": "Matsinho",
+                "code": "MZ041201"
+              },
+              {
+                "name": "Vanduzi",
+                "code": "MZ041202"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Maputo",
+        "code": "MZ05",
+        "districts": [
+          {
+            "name": "Boane",
+            "code": "MZ0501",
+            "localities": [
+              {
+                "name": "Boane",
+                "code": "MZ050101"
+              },
+              {
+                "name": "Matola Rio",
+                "code": "MZ050102"
+              }
+            ]
+          },
+          {
+            "name": "Cidade Da Matola",
+            "code": "MZ0502",
+            "localities": [
+              {
+                "name": "Cidade Da Matola",
+                "code": "MZ050201"
+              }
+            ]
+          },
+          {
+            "name": "Magude",
+            "code": "MZ0503",
+            "localities": [
+              {
+                "name": "Magude",
+                "code": "MZ050301"
+              },
+              {
+                "name": "Mahele",
+                "code": "MZ050302"
+              },
+              {
+                "name": "Mapulanguene",
+                "code": "MZ050303"
+              },
+              {
+                "name": "Motaze",
+                "code": "MZ050304"
+              },
+              {
+                "name": "Panjane",
+                "code": "MZ050305"
+              }
+            ]
+          },
+          {
+            "name": "Manhiça",
+            "code": "MZ0504",
+            "localities": [
+              {
+                "name": "Calanga",
+                "code": "MZ050401"
+              },
+              {
+                "name": "Ilha Josina Machel",
+                "code": "MZ050402"
+              },
+              {
+                "name": "Maluana",
+                "code": "MZ050403"
+              },
+              {
+                "name": "Manhiça",
+                "code": "MZ050404"
+              },
+              {
+                "name": "Palmeira",
+                "code": "MZ050405"
+              },
+              {
+                "name": "Xinavane",
+                "code": "MZ050406"
+              }
+            ]
+          },
+          {
+            "name": "Marracuene",
+            "code": "MZ0505",
+            "localities": [
+              {
+                "name": "Machubo",
+                "code": "MZ050501"
+              },
+              {
+                "name": "Marracuene",
+                "code": "MZ050502"
+              }
+            ]
+          },
+          {
+            "name": "Matutuine",
+            "code": "MZ0506",
+            "localities": [
+              {
+                "name": "Bela Vista",
+                "code": "MZ050601"
+              },
+              {
+                "name": "Catuane",
+                "code": "MZ050602"
+              },
+              {
+                "name": "Mugazine",
+                "code": "MZ050603"
+              },
+              {
+                "name": "Ndelane",
+                "code": "MZ050604"
+              },
+              {
+                "name": "Zitundo",
+                "code": "MZ050605"
+              }
+            ]
+          },
+          {
+            "name": "Moamba",
+            "code": "MZ0507",
+            "localities": [
+              {
+                "name": "Moamba",
+                "code": "MZ050701"
+              },
+              {
+                "name": "Pessene",
+                "code": "MZ050702"
+              },
+              {
+                "name": "Ressano Garcia",
+                "code": "MZ050703"
+              },
+              {
+                "name": "Sabie",
+                "code": "MZ050704"
+              }
+            ]
+          },
+          {
+            "name": "Namaacha",
+            "code": "MZ0508",
+            "localities": [
+              {
+                "name": "Changalane",
+                "code": "MZ050801"
+              },
+              {
+                "name": "Namaacha",
+                "code": "MZ050802"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Maputo City",
+        "code": "MZ06",
+        "districts": [
+          {
+            "name": "Cidade De Maputo",
+            "code": "MZ0601",
+            "localities": [
+              {
+                "name": "Cidade De Maputo",
+                "code": "MZ060101"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Nampula",
+        "code": "MZ07",
+        "districts": [
+          {
+            "name": "Angoche",
+            "code": "MZ0701",
+            "localities": [
+              {
+                "name": "Angoche",
+                "code": "MZ070101"
+              },
+              {
+                "name": "Aube",
+                "code": "MZ070102"
+              },
+              {
+                "name": "Boila",
+                "code": "MZ070103"
+              },
+              {
+                "name": "Namaponda",
+                "code": "MZ070104"
+              }
+            ]
+          },
+          {
+            "name": "Cidade De Nampula",
+            "code": "MZ0702",
+            "localities": [
+              {
+                "name": "Cidade De Nampula",
+                "code": "MZ070201"
+              }
+            ]
+          },
+          {
+            "name": "Erati",
+            "code": "MZ0703",
+            "localities": [
+              {
+                "name": "Alua",
+                "code": "MZ070301"
+              },
+              {
+                "name": "Namapa",
+                "code": "MZ070302"
+              },
+              {
+                "name": "Namiroa",
+                "code": "MZ070303"
+              }
+            ]
+          },
+          {
+            "name": "Ilha De Moçambique",
+            "code": "MZ0704",
+            "localities": [
+              {
+                "name": "Ilha De Moçambique",
+                "code": "MZ070401"
+              },
+              {
+                "name": "Lumbo",
+                "code": "MZ070402"
+              }
+            ]
+          },
+          {
+            "name": "Lalaua",
+            "code": "MZ0705",
+            "localities": [
+              {
+                "name": "Lalaua",
+                "code": "MZ070501"
+              },
+              {
+                "name": "Meti",
+                "code": "MZ070502"
+              }
+            ]
+          },
+          {
+            "name": "Larde",
+            "code": "MZ0706",
+            "localities": [
+              {
+                "name": "Larde",
+                "code": "MZ070601"
+              },
+              {
+                "name": "Mucuali",
+                "code": "MZ070602"
+              }
+            ]
+          },
+          {
+            "name": "Liúpo",
+            "code": "MZ0707",
+            "localities": [
+              {
+                "name": "Liúpo",
+                "code": "MZ070701"
+              },
+              {
+                "name": "Quinga",
+                "code": "MZ070702"
+              }
+            ]
+          },
+          {
+            "name": "Malema",
+            "code": "MZ0708",
+            "localities": [
+              {
+                "name": "Chihulo",
+                "code": "MZ070801"
+              },
+              {
+                "name": "Malema",
+                "code": "MZ070802"
+              },
+              {
+                "name": "Mutuali",
+                "code": "MZ070803"
+              }
+            ]
+          },
+          {
+            "name": "Meconta",
+            "code": "MZ0709",
+            "localities": [
+              {
+                "name": "7 De Abril",
+                "code": "MZ070901"
+              },
+              {
+                "name": "Corrane",
+                "code": "MZ070902"
+              },
+              {
+                "name": "Meconta",
+                "code": "MZ070903"
+              },
+              {
+                "name": "Namialo",
+                "code": "MZ070904"
+              }
+            ]
+          },
+          {
+            "name": "Mecuburi",
+            "code": "MZ0710",
+            "localities": [
+              {
+                "name": "Mecuburi",
+                "code": "MZ071001"
+              },
+              {
+                "name": "Milhana",
+                "code": "MZ071002"
+              },
+              {
+                "name": "Muite",
+                "code": "MZ071003"
+              },
+              {
+                "name": "Namina",
+                "code": "MZ071004"
+              }
+            ]
+          },
+          {
+            "name": "Memba",
+            "code": "MZ0711",
+            "localities": [
+              {
+                "name": "Chipene",
+                "code": "MZ071101"
+              },
+              {
+                "name": "Lurio",
+                "code": "MZ071102"
+              },
+              {
+                "name": "Mazula",
+                "code": "MZ071103"
+              },
+              {
+                "name": "Memba",
+                "code": "MZ071104"
+              }
+            ]
+          },
+          {
+            "name": "Mogincual",
+            "code": "MZ0712",
+            "localities": [
+              {
+                "name": "Namige",
+                "code": "MZ071201"
+              },
+              {
+                "name": "Quixaxe",
+                "code": "MZ071202"
+              }
+            ]
+          },
+          {
+            "name": "Mogovolas",
+            "code": "MZ0713",
+            "localities": [
+              {
+                "name": "Calipo",
+                "code": "MZ071301"
+              },
+              {
+                "name": "Iuluti",
+                "code": "MZ071302"
+              },
+              {
+                "name": "Muatua",
+                "code": "MZ071303"
+              },
+              {
+                "name": "Nametil",
+                "code": "MZ071304"
+              },
+              {
+                "name": "Nanhupo Rio",
+                "code": "MZ071305"
+              }
+            ]
+          },
+          {
+            "name": "Moma",
+            "code": "MZ0714",
+            "localities": [
+              {
+                "name": "Chalaua",
+                "code": "MZ071401"
+              },
+              {
+                "name": "Moma",
+                "code": "MZ071402"
+              }
+            ]
+          },
+          {
+            "name": "Monapo",
+            "code": "MZ0715",
+            "localities": [
+              {
+                "name": "Itoculo",
+                "code": "MZ071501"
+              },
+              {
+                "name": "Monapo",
+                "code": "MZ071502"
+              },
+              {
+                "name": "Netia",
+                "code": "MZ071503"
+              }
+            ]
+          },
+          {
+            "name": "Mossuril",
+            "code": "MZ0716",
+            "localities": [
+              {
+                "name": "Lunga",
+                "code": "MZ071601"
+              },
+              {
+                "name": "Matibane",
+                "code": "MZ071602"
+              },
+              {
+                "name": "Mossuril",
+                "code": "MZ071603"
+              }
+            ]
+          },
+          {
+            "name": "Muecate",
+            "code": "MZ0717",
+            "localities": [
+              {
+                "name": "Imala",
+                "code": "MZ071701"
+              },
+              {
+                "name": "Muculoene",
+                "code": "MZ071702"
+              },
+              {
+                "name": "Muecate",
+                "code": "MZ071703"
+              }
+            ]
+          },
+          {
+            "name": "Murrupula",
+            "code": "MZ0718",
+            "localities": [
+              {
+                "name": "Chinga",
+                "code": "MZ071801"
+              },
+              {
+                "name": "Murrupula",
+                "code": "MZ071802"
+              },
+              {
+                "name": "Nihessiue",
+                "code": "MZ071803"
+              }
+            ]
+          },
+          {
+            "name": "Nacala",
+            "code": "MZ0719",
+            "localities": [
+              {
+                "name": "Nacala",
+                "code": "MZ071901"
+              }
+            ]
+          },
+          {
+            "name": "Nacala-A-Velha",
+            "code": "MZ0720",
+            "localities": [
+              {
+                "name": "Covo",
+                "code": "MZ072001"
+              },
+              {
+                "name": "Nacala-A-Velha",
+                "code": "MZ072002"
+              }
+            ]
+          },
+          {
+            "name": "Nacaroa",
+            "code": "MZ0721",
+            "localities": [
+              {
+                "name": "Intete",
+                "code": "MZ072101"
+              },
+              {
+                "name": "Nacaroa",
+                "code": "MZ072102"
+              },
+              {
+                "name": "Saua-Saua",
+                "code": "MZ072103"
+              }
+            ]
+          },
+          {
+            "name": "Rapale",
+            "code": "MZ0722",
+            "localities": [
+              {
+                "name": "Anchilo",
+                "code": "MZ072201"
+              },
+              {
+                "name": "Mutivasse",
+                "code": "MZ072202"
+              },
+              {
+                "name": "Namaita",
+                "code": "MZ072203"
+              },
+              {
+                "name": "Rapale",
+                "code": "MZ072204"
+              }
+            ]
+          },
+          {
+            "name": "Ribaue",
+            "code": "MZ0723",
+            "localities": [
+              {
+                "name": "Cunle",
+                "code": "MZ072301"
+              },
+              {
+                "name": "Iapala",
+                "code": "MZ072302"
+              },
+              {
+                "name": "Ribaue",
+                "code": "MZ072303"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Niassa",
+        "code": "MZ08",
+        "districts": [
+          {
+            "name": "Chimbonila",
+            "code": "MZ0801",
+            "localities": [
+              {
+                "name": "Chimbonila",
+                "code": "MZ080101"
+              },
+              {
+                "name": "Lione",
+                "code": "MZ080102"
+              },
+              {
+                "name": "Meponda",
+                "code": "MZ080103"
+              }
+            ]
+          },
+          {
+            "name": "Cidade De Lichinga",
+            "code": "MZ0802",
+            "localities": [
+              {
+                "name": "Cidade De Lichinga",
+                "code": "MZ080201"
+              }
+            ]
+          },
+          {
+            "name": "Cuamba",
+            "code": "MZ0803",
+            "localities": [
+              {
+                "name": "Cuamba",
+                "code": "MZ080301"
+              },
+              {
+                "name": "Etarara",
+                "code": "MZ080302"
+              },
+              {
+                "name": "Lurio",
+                "code": "MZ080303"
+              }
+            ]
+          },
+          {
+            "name": "Ilha Licom",
+            "code": "MZ0804",
+            "localities": [
+              {
+                "name": "Ilha Licom",
+                "code": "MZ080401"
+              }
+            ]
+          },
+          {
+            "name": "Ilha Risunodo",
+            "code": "MZ0805",
+            "localities": [
+              {
+                "name": "Ilha Risunodo",
+                "code": "MZ080501"
+              }
+            ]
+          },
+          {
+            "name": "Lago",
+            "code": "MZ0806",
+            "localities": [
+              {
+                "name": "Cobue",
+                "code": "MZ080601"
+              },
+              {
+                "name": "Lunho",
+                "code": "MZ080602"
+              },
+              {
+                "name": "Maniamba",
+                "code": "MZ080603"
+              },
+              {
+                "name": "Metangula",
+                "code": "MZ080604"
+              }
+            ]
+          },
+          {
+            "name": "Lago Niassa",
+            "code": "MZ0807",
+            "localities": [
+              {
+                "name": "Lago Niassa",
+                "code": "MZ080701"
+              }
+            ]
+          },
+          {
+            "name": "Majune",
+            "code": "MZ0808",
+            "localities": [
+              {
+                "name": "Malanga",
+                "code": "MZ080801"
+              },
+              {
+                "name": "Muaquia",
+                "code": "MZ080802"
+              },
+              {
+                "name": "Nairrubi",
+                "code": "MZ080803"
+              }
+            ]
+          },
+          {
+            "name": "Mandimba",
+            "code": "MZ0809",
+            "localities": [
+              {
+                "name": "Mandimba",
+                "code": "MZ080901"
+              },
+              {
+                "name": "Mitande",
+                "code": "MZ080902"
+              }
+            ]
+          },
+          {
+            "name": "Marrupa",
+            "code": "MZ0810",
+            "localities": [
+              {
+                "name": "Marangira",
+                "code": "MZ081001"
+              },
+              {
+                "name": "Marrupa",
+                "code": "MZ081002"
+              },
+              {
+                "name": "Nungo",
+                "code": "MZ081003"
+              }
+            ]
+          },
+          {
+            "name": "Maua",
+            "code": "MZ0811",
+            "localities": [
+              {
+                "name": "Maiaca",
+                "code": "MZ081101"
+              },
+              {
+                "name": "Maua",
+                "code": "MZ081102"
+              }
+            ]
+          },
+          {
+            "name": "Mavago",
+            "code": "MZ0812",
+            "localities": [
+              {
+                "name": "M'Sawize",
+                "code": "MZ081201"
+              },
+              {
+                "name": "Mavago",
+                "code": "MZ081202"
+              }
+            ]
+          },
+          {
+            "name": "Mecanhelas",
+            "code": "MZ0813",
+            "localities": [
+              {
+                "name": "Chiuta",
+                "code": "MZ081301"
+              },
+              {
+                "name": "Insaca",
+                "code": "MZ081302"
+              }
+            ]
+          },
+          {
+            "name": "Mecula",
+            "code": "MZ0814",
+            "localities": [
+              {
+                "name": "Matondovela",
+                "code": "MZ081401"
+              },
+              {
+                "name": "Mecula",
+                "code": "MZ081402"
+              }
+            ]
+          },
+          {
+            "name": "Metarica",
+            "code": "MZ0815",
+            "localities": [
+              {
+                "name": "Metarica",
+                "code": "MZ081501"
+              },
+              {
+                "name": "Nacumua",
+                "code": "MZ081502"
+              }
+            ]
+          },
+          {
+            "name": "Muembe",
+            "code": "MZ0816",
+            "localities": [
+              {
+                "name": "Chiconono",
+                "code": "MZ081601"
+              },
+              {
+                "name": "Muembe",
+                "code": "MZ081602"
+              }
+            ]
+          },
+          {
+            "name": "Ngauma",
+            "code": "MZ0817",
+            "localities": [
+              {
+                "name": "Itepela",
+                "code": "MZ081701"
+              },
+              {
+                "name": "Massangulo",
+                "code": "MZ081702"
+              }
+            ]
+          },
+          {
+            "name": "Nipepe",
+            "code": "MZ0818",
+            "localities": [
+              {
+                "name": "Muipite",
+                "code": "MZ081801"
+              },
+              {
+                "name": "Nipepe",
+                "code": "MZ081802"
+              }
+            ]
+          },
+          {
+            "name": "Sanga",
+            "code": "MZ0819",
+            "localities": [
+              {
+                "name": "Lussimbesse",
+                "code": "MZ081901"
+              },
+              {
+                "name": "Macaloge",
+                "code": "MZ081902"
+              },
+              {
+                "name": "Matchedje",
+                "code": "MZ081903"
+              },
+              {
+                "name": "Unango",
+                "code": "MZ081904"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sofala",
+        "code": "MZ09",
+        "districts": [
+          {
+            "name": "Buzi",
+            "code": "MZ0901",
+            "localities": [
+              {
+                "name": "Buzi",
+                "code": "MZ090101"
+              },
+              {
+                "name": "Estaquinha",
+                "code": "MZ090102"
+              },
+              {
+                "name": "Sofala",
+                "code": "MZ090103"
+              }
+            ]
+          },
+          {
+            "name": "Caia",
+            "code": "MZ0902",
+            "localities": [
+              {
+                "name": "Caia",
+                "code": "MZ090201"
+              },
+              {
+                "name": "Murraça",
+                "code": "MZ090202"
+              },
+              {
+                "name": "Sena",
+                "code": "MZ090203"
+              }
+            ]
+          },
+          {
+            "name": "Chemba",
+            "code": "MZ0903",
+            "localities": [
+              {
+                "name": "Chemba",
+                "code": "MZ090301"
+              },
+              {
+                "name": "Chiramba",
+                "code": "MZ090302"
+              },
+              {
+                "name": "Mulima",
+                "code": "MZ090303"
+              }
+            ]
+          },
+          {
+            "name": "Cheringoma",
+            "code": "MZ0904",
+            "localities": [
+              {
+                "name": "Inhaminga",
+                "code": "MZ090401"
+              },
+              {
+                "name": "Inhamitanga",
+                "code": "MZ090402"
+              }
+            ]
+          },
+          {
+            "name": "Chibabava",
+            "code": "MZ0905",
+            "localities": [
+              {
+                "name": "Chibabava",
+                "code": "MZ090501"
+              },
+              {
+                "name": "Goonda",
+                "code": "MZ090502"
+              },
+              {
+                "name": "Muxungue",
+                "code": "MZ090503"
+              }
+            ]
+          },
+          {
+            "name": "Cidade Da Beira",
+            "code": "MZ0906",
+            "localities": [
+              {
+                "name": "Cidade Da Beira",
+                "code": "MZ090601"
+              }
+            ]
+          },
+          {
+            "name": "Dondo",
+            "code": "MZ0907",
+            "localities": [
+              {
+                "name": "Dondo",
+                "code": "MZ090701"
+              },
+              {
+                "name": "Mafambisse",
+                "code": "MZ090702"
+              }
+            ]
+          },
+          {
+            "name": "Gorongosa",
+            "code": "MZ0908",
+            "localities": [
+              {
+                "name": "Gorongosa",
+                "code": "MZ090801"
+              },
+              {
+                "name": "Nhamadze",
+                "code": "MZ090802"
+              },
+              {
+                "name": "Vanduzi",
+                "code": "MZ090803"
+              }
+            ]
+          },
+          {
+            "name": "Machanga",
+            "code": "MZ0909",
+            "localities": [
+              {
+                "name": "Divinhe",
+                "code": "MZ090901"
+              },
+              {
+                "name": "Machanga",
+                "code": "MZ090902"
+              }
+            ]
+          },
+          {
+            "name": "Maringue",
+            "code": "MZ0910",
+            "localities": [
+              {
+                "name": "Canxixe",
+                "code": "MZ091001"
+              },
+              {
+                "name": "Maringue",
+                "code": "MZ091002"
+              },
+              {
+                "name": "Subwe",
+                "code": "MZ091003"
+              }
+            ]
+          },
+          {
+            "name": "Marromeu",
+            "code": "MZ0911",
+            "localities": [
+              {
+                "name": "Chupanga",
+                "code": "MZ091101"
+              },
+              {
+                "name": "Marromeu",
+                "code": "MZ091102"
+              }
+            ]
+          },
+          {
+            "name": "Muanza",
+            "code": "MZ0912",
+            "localities": [
+              {
+                "name": "Galinha",
+                "code": "MZ091201"
+              },
+              {
+                "name": "Muanza",
+                "code": "MZ091202"
+              }
+            ]
+          },
+          {
+            "name": "Nhamatanda",
+            "code": "MZ0913",
+            "localities": [
+              {
+                "name": "Nhamatanda",
+                "code": "MZ091301"
+              },
+              {
+                "name": "Tica",
+                "code": "MZ091302"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tete",
+        "code": "MZ10",
+        "districts": [
+          {
+            "name": "Angonia",
+            "code": "MZ1001",
+            "localities": [
+              {
+                "name": "Domue",
+                "code": "MZ100101"
+              },
+              {
+                "name": "Ulongue",
+                "code": "MZ100102"
+              }
+            ]
+          },
+          {
+            "name": "Cahora Bassa",
+            "code": "MZ1002",
+            "localities": [
+              {
+                "name": "Chintholo",
+                "code": "MZ100201"
+              },
+              {
+                "name": "Chitima",
+                "code": "MZ100202"
+              },
+              {
+                "name": "Songo",
+                "code": "MZ100203"
+              }
+            ]
+          },
+          {
+            "name": "Changara",
+            "code": "MZ1003",
+            "localities": [
+              {
+                "name": "Chipembere",
+                "code": "MZ100301"
+              },
+              {
+                "name": "Luenha",
+                "code": "MZ100302"
+              }
+            ]
+          },
+          {
+            "name": "Chifunde",
+            "code": "MZ1004",
+            "localities": [
+              {
+                "name": "Chifunde",
+                "code": "MZ100401"
+              },
+              {
+                "name": "Mualadze",
+                "code": "MZ100402"
+              },
+              {
+                "name": "Nsadzu",
+                "code": "MZ100403"
+              }
+            ]
+          },
+          {
+            "name": "Chiuta",
+            "code": "MZ1005",
+            "localities": [
+              {
+                "name": "Kazula",
+                "code": "MZ100501"
+              },
+              {
+                "name": "Manje",
+                "code": "MZ100502"
+              }
+            ]
+          },
+          {
+            "name": "Cidade De Tete",
+            "code": "MZ1006",
+            "localities": [
+              {
+                "name": "Cidade De Tete",
+                "code": "MZ100601"
+              }
+            ]
+          },
+          {
+            "name": "Doa",
+            "code": "MZ1007",
+            "localities": [
+              {
+                "name": "Doa",
+                "code": "MZ100701"
+              }
+            ]
+          },
+          {
+            "name": "Macanga",
+            "code": "MZ1008",
+            "localities": [
+              {
+                "name": "Chidzolomondo",
+                "code": "MZ100801"
+              },
+              {
+                "name": "Furancungo",
+                "code": "MZ100802"
+              }
+            ]
+          },
+          {
+            "name": "Magoe",
+            "code": "MZ1009",
+            "localities": [
+              {
+                "name": "Chinthopo",
+                "code": "MZ100901"
+              },
+              {
+                "name": "Mphende",
+                "code": "MZ100902"
+              },
+              {
+                "name": "Mukumbura",
+                "code": "MZ100903"
+              }
+            ]
+          },
+          {
+            "name": "Marara",
+            "code": "MZ1010",
+            "localities": [
+              {
+                "name": "Marara",
+                "code": "MZ101001"
+              }
+            ]
+          },
+          {
+            "name": "Maravia",
+            "code": "MZ1011",
+            "localities": [
+              {
+                "name": "Chipera",
+                "code": "MZ101101"
+              },
+              {
+                "name": "Chiputu",
+                "code": "MZ101102"
+              },
+              {
+                "name": "Fingoe",
+                "code": "MZ101103"
+              },
+              {
+                "name": "Malowera",
+                "code": "MZ101104"
+              }
+            ]
+          },
+          {
+            "name": "Moatize",
+            "code": "MZ1012",
+            "localities": [
+              {
+                "name": "Kambulatsisi",
+                "code": "MZ101201"
+              },
+              {
+                "name": "Moatize",
+                "code": "MZ101202"
+              },
+              {
+                "name": "Zobue",
+                "code": "MZ101203"
+              }
+            ]
+          },
+          {
+            "name": "Mutarara",
+            "code": "MZ1013",
+            "localities": [
+              {
+                "name": "Charre",
+                "code": "MZ101301"
+              },
+              {
+                "name": "Inhangoma",
+                "code": "MZ101302"
+              },
+              {
+                "name": "Nhamayabue",
+                "code": "MZ101303"
+              }
+            ]
+          },
+          {
+            "name": "Tsangano",
+            "code": "MZ1014",
+            "localities": [
+              {
+                "name": "Ntengo-Wa-Mbalame",
+                "code": "MZ101401"
+              },
+              {
+                "name": "Tsangano",
+                "code": "MZ101402"
+              }
+            ]
+          },
+          {
+            "name": "Zumbu",
+            "code": "MZ1015",
+            "localities": [
+              {
+                "name": "Muze",
+                "code": "MZ101501"
+              },
+              {
+                "name": "Zambue",
+                "code": "MZ101502"
+              },
+              {
+                "name": "Zumbu",
+                "code": "MZ101503"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Zambezia",
+        "code": "MZ11",
+        "districts": [
+          {
+            "name": "Alto Molocue",
+            "code": "MZ1101",
+            "localities": [
+              {
+                "name": "Alto Molocue",
+                "code": "MZ110101"
+              },
+              {
+                "name": "Nauela",
+                "code": "MZ110102"
+              }
+            ]
+          },
+          {
+            "name": "Chinde",
+            "code": "MZ1102",
+            "localities": [
+              {
+                "name": "Chinde",
+                "code": "MZ110201"
+              },
+              {
+                "name": "Micaune",
+                "code": "MZ110202"
+              }
+            ]
+          },
+          {
+            "name": "Cidade De Quelimane",
+            "code": "MZ1103",
+            "localities": [
+              {
+                "name": "Cidade De Quelimane",
+                "code": "MZ110301"
+              }
+            ]
+          },
+          {
+            "name": "Derre",
+            "code": "MZ1104",
+            "localities": [
+              {
+                "name": "Derre",
+                "code": "MZ110401"
+              }
+            ]
+          },
+          {
+            "name": "Gile",
+            "code": "MZ1105",
+            "localities": [
+              {
+                "name": "Alto Ligonha",
+                "code": "MZ110501"
+              },
+              {
+                "name": "Gile",
+                "code": "MZ110502"
+              }
+            ]
+          },
+          {
+            "name": "Gurue",
+            "code": "MZ1106",
+            "localities": [
+              {
+                "name": "Gurue",
+                "code": "MZ110601"
+              },
+              {
+                "name": "Lioma",
+                "code": "MZ110602"
+              },
+              {
+                "name": "Mepuagiua",
+                "code": "MZ110603"
+              }
+            ]
+          },
+          {
+            "name": "Ile",
+            "code": "MZ1107",
+            "localities": [
+              {
+                "name": "Ile",
+                "code": "MZ110701"
+              },
+              {
+                "name": "Socone",
+                "code": "MZ110702"
+              }
+            ]
+          },
+          {
+            "name": "Inhassunge",
+            "code": "MZ1108",
+            "localities": [
+              {
+                "name": "Gonhane",
+                "code": "MZ110801"
+              },
+              {
+                "name": "Inhassunge",
+                "code": "MZ110802"
+              }
+            ]
+          },
+          {
+            "name": "Luabo",
+            "code": "MZ1109",
+            "localities": [
+              {
+                "name": "Luabo",
+                "code": "MZ110901"
+              }
+            ]
+          },
+          {
+            "name": "Lugela",
+            "code": "MZ1110",
+            "localities": [
+              {
+                "name": "Lugela",
+                "code": "MZ111001"
+              },
+              {
+                "name": "Muabanama",
+                "code": "MZ111002"
+              },
+              {
+                "name": "Munhamade",
+                "code": "MZ111003"
+              },
+              {
+                "name": "Tacuane",
+                "code": "MZ111004"
+              }
+            ]
+          },
+          {
+            "name": "Maganja Da Costa",
+            "code": "MZ1111",
+            "localities": [
+              {
+                "name": "Maganja",
+                "code": "MZ111101"
+              },
+              {
+                "name": "Nante",
+                "code": "MZ111102"
+              }
+            ]
+          },
+          {
+            "name": "Maquival",
+            "code": "MZ1112",
+            "localities": [
+              {
+                "name": "Maquival",
+                "code": "MZ111201"
+              }
+            ]
+          },
+          {
+            "name": "Milange",
+            "code": "MZ1113",
+            "localities": [
+              {
+                "name": "Majaua",
+                "code": "MZ111301"
+              },
+              {
+                "name": "Milange",
+                "code": "MZ111302"
+              },
+              {
+                "name": "Mongue",
+                "code": "MZ111303"
+              }
+            ]
+          },
+          {
+            "name": "Mocuba",
+            "code": "MZ1114",
+            "localities": [
+              {
+                "name": "Mocuba",
+                "code": "MZ111401"
+              },
+              {
+                "name": "Mugeba",
+                "code": "MZ111402"
+              },
+              {
+                "name": "Namanjavira",
+                "code": "MZ111403"
+              }
+            ]
+          },
+          {
+            "name": "Mocubela",
+            "code": "MZ1115",
+            "localities": [
+              {
+                "name": "Bajone",
+                "code": "MZ111501"
+              },
+              {
+                "name": "Mocubela",
+                "code": "MZ111502"
+              }
+            ]
+          },
+          {
+            "name": "Molumbo",
+            "code": "MZ1116",
+            "localities": [
+              {
+                "name": "Molumbo",
+                "code": "MZ111601"
+              }
+            ]
+          },
+          {
+            "name": "Mopeia",
+            "code": "MZ1117",
+            "localities": [
+              {
+                "name": "Campo",
+                "code": "MZ111701"
+              },
+              {
+                "name": "Mopeia",
+                "code": "MZ111702"
+              }
+            ]
+          },
+          {
+            "name": "Morrumbala",
+            "code": "MZ1118",
+            "localities": [
+              {
+                "name": "Chire",
+                "code": "MZ111801"
+              },
+              {
+                "name": "Megaza",
+                "code": "MZ111802"
+              },
+              {
+                "name": "Morrumbala",
+                "code": "MZ111803"
+              }
+            ]
+          },
+          {
+            "name": "Mulevala",
+            "code": "MZ1119",
+            "localities": [
+              {
+                "name": "Mulevala",
+                "code": "MZ111901"
+              }
+            ]
+          },
+          {
+            "name": "Namacurra",
+            "code": "MZ1120",
+            "localities": [
+              {
+                "name": "Macuze",
+                "code": "MZ112001"
+              },
+              {
+                "name": "Namacurra",
+                "code": "MZ112002"
+              }
+            ]
+          },
+          {
+            "name": "Namarroi",
+            "code": "MZ1121",
+            "localities": [
+              {
+                "name": "Namarroi",
+                "code": "MZ112101"
+              },
+              {
+                "name": "Regone",
+                "code": "MZ112102"
+              }
+            ]
+          },
+          {
+            "name": "Nicoadala",
+            "code": "MZ1122",
+            "localities": [
+              {
+                "name": "Nicoadala",
+                "code": "MZ112201"
+              }
+            ]
+          },
+          {
+            "name": "Pebane",
+            "code": "MZ1123",
+            "localities": [
+              {
+                "name": "Mualama",
+                "code": "MZ112301"
+              },
+              {
+                "name": "Naburi",
+                "code": "MZ112302"
+              },
+              {
+                "name": "Pebane",
+                "code": "MZ112303"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
